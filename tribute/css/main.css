@@ -1,0 +1,63 @@
+body {
+  width: 920px;
+  margin: 0 auto;
+}
+
+
+.background {
+  background-color: rgba(158,158,158,0.13);
+  border-radius: 10px;
+}
+
+header {
+  text-align: center;
+  margin-top: 20px;
+}
+
+header h1 {
+  padding-top: 50px;
+}
+
+header div {
+  padding-top: 10px;
+}
+
+.image {
+  width: 500px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+section {
+  padding-right: 20px;
+}
+
+section h2 {
+  padding: 5px 20px 10px 5px;
+  text-align: center;
+}
+
+section ul li {
+  margin-bottom: 10px;
+}
+
+section blockquote {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+p {
+  margin-top: 50px;
+  text-align: center;
+}
+
+small {
+  display: block;
+  padding-bottom: 50px;
+  text-align: center;
+}
+footer {
+  margin-top: 100px;
+  text-align: center;
+}

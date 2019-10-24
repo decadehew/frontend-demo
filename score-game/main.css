@@ -1,0 +1,28 @@
+body {
+  width: 920px;
+  margin: 0 auto;
+  font-family: 'Baloo Bhaina', cursive;
+}
+
+.winner {
+  color: green;
+}
+
+.jumbotron {
+  margin-top: 50px;
+}
+
+.inputScore[placeholder] {
+  text-align: center;
+}
+
+.inputScore {
+  border-radius: 10px;
+  width: 20%;
+  margin-bottom: 10px;
+}
+
+#p1Button, #reset {
+  margin-right: 10px;
+  margin-left: 10px;
+}

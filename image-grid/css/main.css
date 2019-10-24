@@ -1,0 +1,42 @@
+header {
+  width: 30%;
+  margin: 1.66%;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.main {
+  width: 100%;
+}
+
+.row1 > img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+.row2 > img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+.row3 > img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+footer {
+    clear: both;
+}
+
+footer div small {
+  display: block;
+  text-align: center;
+}
